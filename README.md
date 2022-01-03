@@ -5,3 +5,4 @@ new line
 Nouvelle ligne
 new line
 Encore une nouvelle ligne
+test diff

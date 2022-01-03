@@ -2,3 +2,4 @@
 
 echo "Hello"
 date
+echo 1
