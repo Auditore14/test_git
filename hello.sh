@@ -7,3 +7,4 @@ echo 2
 echo 3
 echo 4
 ec 5
+echo 6
